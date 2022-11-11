@@ -1,0 +1,15 @@
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\bin\Debug\net6.0\SHARPEXAMPLE.exe
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\bin\Debug\net6.0\SHARPEXAMPLE.deps.json
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\bin\Debug\net6.0\SHARPEXAMPLE.runtimeconfig.json
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\bin\Debug\net6.0\SHARPEXAMPLE.dll
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\bin\Debug\net6.0\SHARPEXAMPLE.pdb
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.csproj.AssemblyReference.cache
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.AssemblyInfoInputs.cache
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.AssemblyInfo.cs
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.csproj.CoreCompileInputs.cache
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.dll
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\refint\SHARPEXAMPLE.dll
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.pdb
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\SHARPEXAMPLE.genruntimeconfig.cache
+D:\GB\TEMPGB\Example001\Ex001\SHARPEXAMPLE\obj\Debug\net6.0\ref\SHARPEXAMPLE.dll
